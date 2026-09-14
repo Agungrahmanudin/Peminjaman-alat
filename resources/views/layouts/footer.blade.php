@@ -1,0 +1,10 @@
+    <script src="{{ asset('tugas/assets/js/jquery-3.6.0.min.js') }}"></script>
+    <script src="{{ asset('tugas/assets/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ asset('tugas/assets/js/feather.min.js') }}"></script>
+    <script src="{{ asset('tugas/assets/plugins/slimscroll/jquery.slimscroll.min.js') }}"></script>
+    <script src="{{ asset('tugas/assets/plugins/apexchart/apexcharts.min.js') }}"></script>
+    <script src="{{ asset('tugas/assets/plugins/apexchart/chart-data.js') }}"></script>
+    <script src="{{ asset('tugas/assets/js/script.js') }}"></script>
+    {{-- <script src="{{ asset('duralux/assets/vendors/js/vendors.min.js') }}"></script>
+    <script src="{{ asset('duralux/assets/js/theme-customizer-init.min.js') }}"></script>
+    <script src="{{ asset('duralux/assets/js/common-init.min.js') }}"></script> --}}
